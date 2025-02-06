@@ -8,7 +8,7 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
-
+/* 
 :root {
   --border-radius: var(--mui-shape-borderRadius);
   --border-color: var(--mui-palette-divider);
@@ -118,3 +118,4 @@ code {
   background-color: rgb(var(--mui-palette-info-mainChannel) / 0.08);
   border: 0;
 }
+ */
